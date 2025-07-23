@@ -1,6 +1,8 @@
 # 📚 Project Foundation & Theory
 
-## 🧠 Complete Machine Learning Guide
+#### **Key Concepts Explained**
+
+- **Image Segmentation**: Pixel-level classification (flooded vs. non-flooded) Complete Machine Learning Guide
 
 This comprehensive guide covers everything from basic machine learning concepts to advanced U-Net architecture specifically for flood detection. The content has been carefully structured to build understanding step-by-step, ensuring you grasp all essential theory before practical implementation.
 
@@ -14,7 +16,7 @@ This comprehensive guide covers everything from basic machine learning concepts 
 
 The comprehensive guide includes:
 
-#### **� Machine Learning & Deep Learning Foundations**
+#### **🔬 Machine Learning & Deep Learning Foundations**
 
 - **What are ML & DL?** - Clear definitions and differences
 - **Machine Learning**: Algorithms that learn patterns from data
@@ -36,7 +38,7 @@ The comprehensive guide includes:
   - **Decoder (Expanding Path)**: Spatial reconstruction and upsampling
   - **Skip Connections**: Merging fine details with abstract features
 
-#### **� Key Concepts Explained**
+#### **Key Concepts Explained**
 
 - **Image Segmentation**: Pixel-level classification (flooded vs. non-flooded)
 - **Spatial Size**: Height and width dimensions in images
